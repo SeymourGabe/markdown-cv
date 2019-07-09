@@ -13,8 +13,7 @@ Physicist, Electrical Engineer, Roboticist.
 
 
 ## Currently
-
-Standing on the shoulders of giants
+Self-Organizing Systems Research (SSR) Group at Harvard University under Doctor Rahdika Nagpal. 
 
 ### Specialized in
 
