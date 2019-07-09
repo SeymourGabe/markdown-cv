@@ -3,13 +3,13 @@ layout: Harvard REU 2019 CV
 title: Gabriel Seymour's CV
 ---
 # Gabriel Seymour
-Physicist, Electrical Engineer, Cambridge professor.
+Physicist, Electrical Engineer, Roboticist.
 
-[//]: # (
+<!--
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> )
+</div> -->
 
 
 ## Currently
